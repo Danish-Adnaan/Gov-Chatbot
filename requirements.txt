@@ -1,0 +1,7 @@
+# requirements.txt
+<<EOF
+streamlit
+openai
+python-dotenv
+requests
+EOF

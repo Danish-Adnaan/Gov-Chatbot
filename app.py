@@ -4,11 +4,6 @@ import json
 from openai import OpenAI
 import os
 
-DATA_GOV_API_KEY = "valid_dataset_gov_api_key_here"
-OPENAI_API_KEY = "sk-proj-YourAPIKeyHere"
-
-
-
 st.set_page_config(page_title="Agri-Climate Chatbot by Danish Adnaan", page_icon="🌾", layout="wide")
 
 # Initialize OpenAI client
